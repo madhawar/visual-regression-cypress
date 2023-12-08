@@ -4,17 +4,17 @@
 
 UNIX
 ```
-export PERCY_TOKEN="web_7142d53457a92b0c4022e7aebca81f15dbefe4e5672e8790f39b5944c6eff76b"
+export PERCY_TOKEN=""
 ```
 
 Windows PowerShell
 ```
-$Env:PERCY_TOKEN="web_7142d53457a92b0c4022e7aebca81f15dbefe4e5672e8790f39b5944c6eff76b"
+$Env:PERCY_TOKEN=""
 ```
 
 Windows CMD
 ```
-set PERCY_TOKEN="web_7142d53457a92b0c4022e7aebca81f15dbefe4e5672e8790f39b5944c6eff76b"
+set PERCY_TOKEN=""
 ```
 
 ## Setting up Percy
